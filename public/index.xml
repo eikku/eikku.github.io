@@ -37,14 +37,5 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
 Thanks for reading! Drop me a mail eijaleena@eijaleenakoponen.fi</description>
     </item>
     
-    <item>
-      <title>Contact</title>
-      <link>http://www.eijaleenakoponen.fi/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.eijaleenakoponen.fi/contact/</guid>
-      <description>{{&amp;lt; form-contact action=&amp;ldquo;https://formspree.io/eijaleena@eijaleenakoponen.fi&amp;quot; &amp;gt;}}</description>
-    </item>
-    
   </channel>
 </rss>
